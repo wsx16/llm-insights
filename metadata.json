@@ -1,0 +1,7 @@
+{
+  "name": "LLM Insights: Token & Context Master",
+  "description": "An interactive educational dashboard explaining the fundamental concepts of Large Language Models: Tokens and Context Windows, featuring real-time tokenization visualization and context simulators.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
